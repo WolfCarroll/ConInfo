@@ -6,6 +6,7 @@ class Class1
     [STAThread]
     static void Main(string[] args)
     {
+        //comment
         string sProdName = "Widget";
         int iUnitQty = 100;
         double dUnitCost = 1.03;
