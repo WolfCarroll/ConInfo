@@ -1,0 +1,5 @@
+C:\Dev\work\conInfo\conInfo\bin\Debug\conInfo.exe
+C:\Dev\work\conInfo\conInfo\bin\Debug\conInfo.pdb
+C:\Dev\work\conInfo\conInfo\obj\x86\Debug\conInfo.exe
+C:\Dev\work\conInfo\conInfo\obj\x86\Debug\conInfo.pdb
+C:\Dev\work\conInfo\conInfo\obj\x86\Debug\conInfo.csprojResolveAssemblyReference.cache
